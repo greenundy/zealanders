@@ -1,0 +1,98 @@
+{
+  "en": {
+    "locale": "English",
+    "zealanders": "Zealanders",
+    "criteria": {
+      "name": "Criteria",
+      "title": "Zealanders invests in ideas that benefit at least a billion people.",
+      "body": "For us, asking the big \"WHY\" upfront is the most important investment criteria. At Zealanders, we focus on ideas and companies that resolve human problems and make the biggest positive impact on people’s lives. We have specific areas of interest, but we’re agnostic to the stage of development or funding."
+    },
+    "ethos": {
+      "name": "Ethos",
+      "title": "Imagine an investment think tank driven by founders. That’s Zealanders.",
+      "body": "The best decisions are made when founders and investors sit on the same side of the table. Zealanders’ investment network gives founders access to valuable information, such as investment decisions and deal flow, so they can think and act more like investors. And investors more like founders."
+    },
+    "about": {
+      "name": "About",
+      "title": "The thing we’re most deeply invested in, at Zealanders, is humanity.",
+      "body": "We’ve made it our mission to dive deep into the investment cycle and uncover the unique potential of new enterprise. Including projections for the long-term impact on human wellbeing. We reinvest our profits into ongoing R&D to keep Zealanders on the pulse of new opportunities for furthering our mission."
+    },
+    "AOI": {
+      "sidebar": "Opportunities",
+      "name": "Areas of Investment",
+      "body": "Our focus, at Zealanders, is on pioneering solutions that promise to improve the quality of life for the most people possible. At present, we focus on the following areas.",
+      "investments": {
+        "land": {
+          "title": "Land Based Innovation",
+          "body": "We’re interested in all things that involve the innovative use of land. Especially new materials, rapid construction and progressive financial modelling for leasing and land ownership."
+        },
+        "transport": {
+          "title": "Transport & Infrastructure",
+          "body": "We actively investigate new transport and infrastructure solutions that address rapidly growing populations and limited resources. We believe they will play an essential part of the future wealth of societies."
+        },
+        "hightech": {
+          "title": "High-Tech Wellness",
+          "body": "We actively pursue founders and technologies that will enhance our lives with break through innovations in digital and material science."
+        },
+        "genetics": {
+          "title": "Genetic Rejuvenation",
+          "body": "We are interested in technologies that affect, and are affected by, the enhancement or rejuvenation of our genetic code."
+        }
+      },
+      "learn": "Learn more"
+    },
+    "join": {
+      "name": "Join and more info",
+      "join": "Join the journey with Zealanders",
+      "signup": "Leave us your email & we will be in touch",
+      "your_email": "Your email here"
+    }
+  },
+  "zh": {
+    "locale": "中文",
+    "criteria": {
+      "name": "准则",
+      "title": "Zealanders投资旨在让至少十亿人收益",
+      "body": "为什么投资是Zealanders的投资准则。Zealanders专注于能够解决人类矛盾及对人类生活有最大益处的理念和公司。Zealander有自己特定的投资兴趣，但是对发展和投资的平台不了解。"
+    },
+    "ethos": {
+      "name": "企业文化",
+      "title": "Zealanders是一个创始人驱动的投资智库；",
+      "body": "创始人和投资人在同一层面方能做出最好决策。Zealander让创始人接触譬如投资决定及交易流等重要信息，这样方能像投资人一样思考和付诸实施。同时投资人也能像创始人一样。"
+    },
+    "about": {
+      "name": "关于我们",
+      "title": "Zealander根本兴趣在于人",
+      "body": "Zealander的使命是扎根投资链并发掘独特的潜在项目，包括对人类健康有长远影响的项目。我们循环投资进行中的R&D项目，使其让Zealander在新机会的脉搏上进一步完成使命。"
+    },
+    "AOI": {
+      "name": "投资领域",
+      "sidebar": "投资领域",
+      "body": "Zealanders专注于开放性的提高尽可能多人的生活质量的解决方案。目前专注于如下领域：",
+      "investments": {
+        "land": {
+          "title": "土地改革",
+          "body": "Zealander兴趣在于所有的土地创新型使用方法，尤其是新材料，快速建设及土地租赁和所有权的渐进式金融模型。"
+        },
+        "transport": {
+          "title": "物流及基建",
+          "body": "我们积极研究解决人口快速增长极有限资源的方法，我们相信这会在将来社会财富中发挥重要作用。"
+        },
+        "hightech": {
+          "title": "科技健康",
+          "body": "我们积极寻求创始人和技术，以数字和材料科技创新来提高生活。"
+        },
+        "genetics": {
+          "title": "基因再生",
+          "body": "兴趣在于影响或被影响的基因遗传密码的增强和恢复技术。"
+        }
+      }
+    },
+    "join": {
+      "name": "加入获得更多信息",
+      "join": "加入Zealanders之旅",
+      "signup": "给我们留下您的电子邮件，我们将与您联系",
+      "your_email": "在此输入您的电子邮件"
+    }
+  }
+}
